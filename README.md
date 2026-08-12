@@ -72,11 +72,5 @@ The program displays:
 
 Each execution creates a unique city skyline.
 
-## Future Enhancements
 
-* Add stars and moon for a night mode
-* Include roads and vehicles
-* Add trees and parks
-* Animate window lights
-* Create day/night transitions
 
